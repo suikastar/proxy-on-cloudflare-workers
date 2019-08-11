@@ -8,3 +8,5 @@
 https://{your_worker_name}.{your_sub_domain}.workers.dev/{target_website}/
 #### Example
 https://example.proxy-on-cloudflare-workers.workers.dev/github.com/
+## License
+Apache License 2.0
